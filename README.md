@@ -77,7 +77,7 @@ As part of learning **AI and data science**, I’ve completed hands-on projects 
 
 ### 🌿 Applied Machine Learning for Sustainability
 
-🧠 [**Prevention of Air Pollution by Predictive Planting of Trees**](https://github.com/AyushJ30/Prevention-of-Air-Polllution-by-Predictive-Planting-of-Trees)
+- 🧠 [**Prevention of Air Pollution by Predictive Planting of Trees**](https://github.com/AyushJ30/Prevention-of-Air-Polllution-by-Predictive-Planting-of-Trees)
 
 A project close to my heart — using **Random Forest Regression** to recommend the best tree species and locations to reduce air pollution, based on pollutant absorption, tree height, and geography.
 
@@ -90,8 +90,6 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 - 🔫 [GTA 5 Clone](https://github.com/AyushJ30/GTA-5-Clone)
 
 A third-person shooter inspired by GTA 5 featuring Aiming, shooting, reloading, and **dual wielding**, etc. 
-
-Built in Unity with C#, Animator Controller, and Rigidbody-based destructible interactions.
 
 - 🎮 [3D Character Controller in Unity](https://github.com/AyushJ30/3D-Character-Controller-in-Unity)
 
