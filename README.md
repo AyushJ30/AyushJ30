@@ -1,22 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
-<h3 align="center"></h3>
+# 👋 Hey there! I'm Ayush
 
-- 🔭 I’m currently working on **Detecting Pediatric Lymphoblastic Leukemia using Computer Vision**
+I'm a recent Computer Science graduate passionate about building interactive and meaningful digital experiences. I’m currently working on an indie **2D adventure RPG game** using **Unity and C#**, where I bring pixel worlds to life with gameplay mechanics, exploration, and combat systems.
 
-- 🌱 I’m currently learning **Full-Stack Development and seaborn**
+Beyond game dev, I’m expanding into the world of **AI and data science** — combining creativity with analytics to solve real-world problems.
 
-- 📫 How to reach me **ayushjha993@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am quite a quick learner**
+### 🛠️ Languages & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayushj30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushj30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushj30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushj30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayushj30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayushj30/" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushj30&show_icons=true&locale=en&layout=compact" alt="ayushj30" /></p>
+### 🎮 Currently Working On
+
+I'm developing a **2D Adventure RPG** in **Unity** — blending storytelling, exploration, and combat mechanics in a handcrafted pixel-art world.
+
+🛠️ Features I’m building:
+- Sprite animations and tilemaps
+- Dialogue and quest systems
+- Inventory and XP leveling
+- Custom combat design
+- Ambience and game sound systems
+
+Stay tuned! Dev logs and sneak peeks coming soon.
+
+---
+
+### 📊 Data Science & ML Projects
+
+As part of learning **AI and data science**, I’ve completed hands-on projects using **Python**, **pandas**, and **scikit-learn**:
+
+- 🔹 [**Sea Level Predictor**](https://github.com/AyushJ30/Sea-Level-Predictor): Predicts future sea levels using linear regression on EPA climate data. Clean visuals and regression lines show climate trends till 2050.
+
+- 🔹 [**Page View Time Series Visualizer**](https://github.com/AyushJ30/Page-View-Time-Series-Visualizer): Analyzes web traffic over time using matplotlib/seaborn to uncover trends, seasonality, and outliers.
+
+- 🔹 [**Medical Data Visualizer**](https://github.com/AyushJ30/Medical-Data-Visualizer): Explores patient health data using box plots and heatmaps to visualize cardiovascular risk factors.
+
+---
+
+### 🌿 Applied Machine Learning for Sustainability
+
+🧠 [**Prevention of Air Pollution by Predictive Planting of Trees**](https://github.com/AyushJ30/Prevention-of-Air-Polllution-by-Predictive-Planting-of-Trees)
+
+A project close to my heart — using **Random Forest Regression** to recommend the best tree species and locations to reduce air pollution, based on pollutant absorption, tree height, and geography.
+
+> 🌳 Turning machine learning into environmental impact — one tree at a time.
+
+---
+
+### 🤖 What I’m Learning
+
+- AI & Machine Learning fundamentals (FreeCodeCamp, projects, tutorials)
+- Supervised/unsupervised learning
+- Model evaluation & data visualization
+- Applying ML to real-world challenges (environment, health, sustainability)
+
+---
+
+### 📬 Let's Connect
+
+- 📧 ayushjha3020@gmail.com  
+- 🔗 [LinkedIn – Ayush Jha](https://www.linkedin.com/in/ayush-jha-206a1b1a6/)
+- 🎮 Working on: Indie Game Dev | AI for Good | Open to collaborations
+
+---
+
+> _"Code that creates. Data that makes a difference."_  
