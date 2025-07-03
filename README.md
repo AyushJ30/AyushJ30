@@ -67,11 +67,11 @@ Stay tuned! Dev logs and sneak peeks coming soon.
 
 As part of learning **AI and data science**, I’ve completed hands-on projects using **Python**, **pandas**, and **scikit-learn**:
 
-- 🔹 [**Sea Level Predictor**](https://github.com/AyushJ30/Sea-Level-Predictor): Predicts future sea levels using linear regression on EPA climate data. Clean visuals and regression lines show climate trends till 2050.
+-  [**Sea Level Predictor**](https://github.com/AyushJ30/Sea-Level-Predictor): Predicts future sea levels using linear regression on EPA climate data. Clean visuals and regression lines show climate trends till 2050.
 
-- 🔹 [**Page View Time Series Visualizer**](https://github.com/AyushJ30/Page-View-Time-Series-Visualizer): Analyzes web traffic over time using matplotlib/seaborn to uncover trends, seasonality, and outliers.
+-  [**Page View Time Series Visualizer**](https://github.com/AyushJ30/Page-View-Time-Series-Visualizer): Analyzes web traffic over time using matplotlib/seaborn to uncover trends, seasonality, and outliers.
 
-- 🔹 [**Medical Data Visualizer**](https://github.com/AyushJ30/Medical-Data-Visualizer): Explores patient health data using box plots and heatmaps to visualize cardiovascular risk factors.
+-  [**Medical Data Visualizer**](https://github.com/AyushJ30/Medical-Data-Visualizer): Explores patient health data using box plots and heatmaps to visualize cardiovascular risk factors.
 
 ---
 
@@ -85,9 +85,9 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 
 ---
 
-## 🔥 Game Dev Projects
+### 🔥 Game Dev Projects
 
-### 🔫 [GTA 5 Clone](https://github.com/AyushJ30/GTA-5-Clone)
+🔫 [GTA 5 Clone](https://github.com/AyushJ30/GTA-5-Clone)
 
 A third-person shooter inspired by GTA 5 featuring:
 - Aiming, shooting, reloading, and **dual wielding**
@@ -97,9 +97,8 @@ A third-person shooter inspired by GTA 5 featuring:
 
 Built in Unity with C#, Animator Controller, and Rigidbody-based destructible interactions.
 
----
 
-### 🎮 [3D Character Controller in Unity](https://github.com/AyushJ30/3D-Character-Controller-in-Unity)
+🎮 [3D Character Controller in Unity](https://github.com/AyushJ30/3D-Character-Controller-in-Unity)
 
 A fully animated 3D character controller with:
 - Basic movement, sprinting, jumping, crouching
