@@ -68,8 +68,8 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 
 ### 📬 Let's Connect
 
-- 📧 ayushjha3020@gmail.com  
-- 🔗 [LinkedIn – Ayush Jha](https://www.linkedin.com/in/ayush-jha-206a1b1a6/)
+- 📧 ayushjha993@gmail.com  
+- 🔗 [LinkedIn – Ayush Jha](www.linkedin.com/in/ayushj30)
 - 🎮 Working on: Indie Game Dev | AI for Good | Open to collaborations
 
 ---
