@@ -98,7 +98,7 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 
 - [x] **Data Analysis with Python** - [FreeCodeCamp](https://www.freecodecamp.org/certification/AyushJ30/data-analysis-with-python-v7)
 - [x] **MERN Full-Stack Developer Evaluation** - [Unstop](https://unstop.com/certificate-preview/c3c12be5-cd1a-4c1c-980d-44c2b0f09ebd?utm_campaign=)
-- [ ] **Machine Learning with Python** - [FreeCodeCamp] (In Progress)
+- [ ] **Machine Learning with Python** - (In Progress)
 
 
 ---
