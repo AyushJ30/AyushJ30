@@ -87,7 +87,7 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 
 ### 🔥 Game Dev Projects
 
-🔫 [GTA 5 Clone](https://github.com/AyushJ30/GTA-5-Clone)
+- 🔫 [GTA 5 Clone](https://github.com/AyushJ30/GTA-5-Clone)
 
 A third-person shooter inspired by GTA 5 featuring:
 - Aiming, shooting, reloading, and **dual wielding**
@@ -97,16 +97,14 @@ A third-person shooter inspired by GTA 5 featuring:
 
 Built in Unity with C#, Animator Controller, and Rigidbody-based destructible interactions.
 
---
-
-🎮 [3D Character Controller in Unity](https://github.com/AyushJ30/3D-Character-Controller-in-Unity)
+- 🎮 [3D Character Controller in Unity](https://github.com/AyushJ30/3D-Character-Controller-in-Unity)
 
 A fully animated 3D character controller with:
 - Basic movement, sprinting, jumping, crouching
 - Dodge mechanics (backstep and roll)
 - Camera follow system
 - Integrated Animator Controller with blend trees
-
+  
 This is a **reusable foundation** for 3D RPGs or action games.
 
 ---
