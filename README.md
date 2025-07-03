@@ -87,6 +87,16 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 
 ---
 
+### 📜 Certifications
+
+- [x] FreeCodeCamp: Data Analysis with Python
+- [x] Unstop: MERN Full-Stack Developer Evaluation
+- [ ] FreeCodeCamp: Machine Learning with Python (In Progress)
+
+
+---
+
+
 ### 📬 Let's Connect
 
 - 📧 ayushjha993@gmail.com  
