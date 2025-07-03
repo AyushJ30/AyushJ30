@@ -21,10 +21,15 @@ Beyond game dev, I’m expanding into the world of **AI and data science** — c
 
 ### 🧰 Tools & Frameworks
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 ---
@@ -47,10 +52,12 @@ Stay tuned! Dev logs and sneak peeks coming soon.
 
 ### 🎯 2025 Goals
 
-- 📘 Build and publish my first Unity-based indie game
-- 🤖 Create a full-stack AI-powered app
-- 🌱 Contribute to open-source environmental tech projects
-- 📚 Learn PyTorch and TensorFlow
+- 🚀 Release my first complete Unity-based indie game (2D Adventure RPG)
+- 📈 Build an AI-powered full-stack application
+- 🌱 Apply machine learning to sustainability or environmental projects
+- 🤝 Contribute to open-source (especially data or game-related)
+- 🧠 Learn TensorFlow or PyTorch and build a deep learning project
+- 🎓 Complete one advanced certification in AI or game development
 
 
 ---
@@ -89,9 +96,9 @@ A project close to my heart — using **Random Forest Regression** to recommend 
 
 ### 📜 Certifications
 
-- [x] FreeCodeCamp: Data Analysis with Python
-- [x] Unstop: MERN Full-Stack Developer Evaluation
-- [ ] FreeCodeCamp: Machine Learning with Python (In Progress)
+- [x] **Data Analysis with Python** - [FreeCodeCamp](https://www.freecodecamp.org/certification/AyushJ30/data-analysis-with-python-v7)
+- [x] **MERN Full-Stack Developer Evaluation** - [Unstop](https://unstop.com/certificate-preview/c3c12be5-cd1a-4c1c-980d-44c2b0f09ebd?utm_campaign=)
+- [ ] **Machine Learning with Python** - [FreeCodeCamp] (In Progress)
 
 
 ---
