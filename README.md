@@ -97,6 +97,7 @@ A third-person shooter inspired by GTA 5 featuring:
 
 Built in Unity with C#, Animator Controller, and Rigidbody-based destructible interactions.
 
+-
 
 🎮 [3D Character Controller in Unity](https://github.com/AyushJ30/3D-Character-Controller-in-Unity)
 
