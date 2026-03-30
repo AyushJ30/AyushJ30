@@ -14,4 +14,4 @@ I'm a Full-Stack Developer based in India, passionate about building robust, sca
 * **[meBus](https://github.com/AyushJ30/meBUS):** A comprehensive full-stack bus booking platform with secure JWT authentication, role-based admin views, PDF ticket generation, and complex relational scheduling.
 * **[URL Shortener](https://github.com/AyushJ30/URL-Shortener):** A full-stack application featuring user authentication, a mailing system, and profile photo uploads using Multer.
 
-📫 **Let's Connect:** [Insert LinkedIn Link] | [Insert Email]
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/ayushj30/) | [Insert Email]
